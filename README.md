@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a software developer with 7 years of experience, specializing in microservices, project architecture, and leading teams to build scalable solutions. Currently, I serve as a Technical Lead at Marsh & McLennan, where I focus on creating highly scalable and reusable services. Additionally, I contribute to open-source projects on GitHub, developing clean applications like online-programming, tiny-url, and document-manager.<br><br>A fun fact about me is my keen interest in startups, particularly in the EdTech space, where I aim to make a significant impact.<br><br>
+With 7 years of experience in software development, I specialize in designing microservices, architecting projects, and leading teams to deliver scalable, high-performance solutions. As a Technical Lead at Marsh & McLennan, I focus on building robust, reusable services that drive efficiency and growth. Beyond my professional role, I’m an active open-source contributor on GitHub, creating elegant and clean projects like online-programming, tiny-url, and document-manager.
+
+I’m passionate about startups, especially in the EdTech space, where I see immense potential to innovate and inspire. Fun fact: I’m always on the lookout for exciting ventures that challenge the norm and push the boundaries of tech.
 
 
 ## 🌐 Socials:
