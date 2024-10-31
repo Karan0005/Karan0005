@@ -1,5 +1,7 @@
 # 💫 About Me:
-Experienced software professional with over 7 years of experience in building distributed software architectures and scalable solutions across finance, e-commerce, healthcare, enterprise software systems, and streaming domains. Recognized for achieving impactful results by leading cross-functional teams and fostering a collaborative work environment. Experienced in understanding complex challenges and implementing effective solutions that enhance system performance, improve user experience, and optimize infrastructure costs.
+Experienced software professional with over 7 years of experience in building distributed software architectures and scalable solutions across finance, e-commerce, healthcare, enterprise software systems, and streaming domains.
+
+Recognized for achieving impactful results by leading cross-functional teams and fostering a collaborative work environment. Experienced in understanding complex challenges and implementing effective solutions that enhance system performance, improve user experience, and optimize infrastructure costs.
 
 Beyond my professional role, I’m an active open-source contributor on GitHub, creating elegant and clean projects like online-programming, tiny-url, and document-manager.
 
